@@ -1,0 +1,13 @@
+** Project Name : "Simple Water Refilling Management System" **
+
+
+** Database Name : water_refilling_db **
+
+
+** Developed By : Prajwal P Kashyap - 1KI20CS070 ; Sudeep P - 1KI20CS106 **
+
+
+** Login Details **
+
+USERNAME : water_admin
+PASSWORD : prajwalsudeep
